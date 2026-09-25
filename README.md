@@ -37,6 +37,8 @@
 > [!CAUTION]
 > To [@mpmp666](https://github.com/mpmp666), if you posting shit ads again, i'll report ur fking shit github account for abusing this repo
 
+开茄子。
+
 ---
 
 ## 免责声明
