@@ -37,11 +37,22 @@
 > [!CAUTION]
 > To [@mpmp666](https://github.com/mpmp666), if you posting shit ads again, i'll report ur fking shit github account for abusing this repo
 
+开茄子。
+
 ---
 
 ## 免责声明
 > [!CAUTION]
 > 本仓库所有文件均为"原样(AS-IS)"提供，在法律允许的最大范围内不提供所有明示或默示保证，包括但不限于适销性、令人满意的质量、不侵犯第三方权利以及适合特定目的或用途的默示保证，均予免除。不做保证任何源或产品不会或将来不会侵犯任何专利、版权、商业秘密或其他专有权利。如存在侵权情况，请尝试删除。
+
+---
+
+# 好消息！好消息！
+
+在以下商店消费每满 **10元** 即可获得 **20元** 现金回赠！不限次数！<br>
+*(不包括运费)*<br><br>
+**立即前往** >>> [https://airshop.free.nf](https://airshop.free.nf)<br>
+> 让**消费**不再是**压力**
 
 ---
 
@@ -1026,6 +1037,10 @@ https://blog.admincmd.xyz/
 https://admincmd.xyz/
 
 > 你要在这个 VSCode 粘贴都可以卡几秒的 Markdown 里写上你的 Website 吗？快来闹一闹 ——admincmd-a
+
+https://xundei.qzz.io/
+
+> 个人小博客，欢迎交换友链
 
 ---
 
