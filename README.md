@@ -1038,6 +1038,10 @@ https://admincmd.xyz/
 
 > 你要在这个 VSCode 粘贴都可以卡几秒的 Markdown 里写上你的 Website 吗？快来闹一闹 ——admincmd-a
 
+https://xundei.qzz.io/
+
+> 个人小博客，欢迎交换友链
+
 ---
 
 # Debian --通用操作系统
